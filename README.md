@@ -4,14 +4,14 @@ Power BI dashboard analyzing the impact of AI dependency on student career readi
 ## Key Insights
 - Dataset contains approximately 15,000 students
 - Average AI dependency score 4.54
-- Average career readiness score 6'00
+- Average career readiness score 6.00
 - Average AI usage Hours: 2.01 hours per day
 - High AI user experiences the highest burnout levels
-- career clarity increases slightly with AI usage
+- Career clarity increases slightly with AI usage
 - Resume confidence decreases among heavy AI Users
 - Most students fall within the low and moderate AI usage categories.
 ##Tools Used
--Kpi Cards
+- Kpi Cards
 - Ai usage Distribution Analysis
 - Burnout Analysisby AI Usage level
 - Career readiness and career clarity comparison
